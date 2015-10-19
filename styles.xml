@@ -1,0 +1,23 @@
+<resources>
+<!Base
+application theme, dependent on API level. This theme is replaced
+by AppBaseTheme from res/valuesvXX/
+styles.xml on newer devices.
+>
+<style name="AppBaseTheme" parent="Theme.Sherlock.Light">
+<!Theme
+customizations available in newer API levels can go in
+res/valuesvXX/
+styles.xml, while customizations related to
+backwardcompatibility
+can go here.
+>
+</style>
+<!Application
+theme. >
+<style name="AppTheme" parent="AppBaseTheme">
+<!All
+customizations that are NOT specific to a particular APIlevel
+can go here. >
+</style>
+</resources>
